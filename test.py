@@ -5,3 +5,6 @@ import pandas as pd
 #Adding a new piece of code
 
 #Another change has been made
+
+
+#Fixing bug
